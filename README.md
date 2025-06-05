@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Vu!</h1>
-<h3>Just a lifelong apprentice of the computing arts</h3>
 
 - 🔭 I’m currently working on [a hand gesture controller](https://github.com/LuongVu307/hand-gesture-control)
 
