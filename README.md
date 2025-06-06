@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Vu!</h1>
 
-I am currently a student of the University of Bristol, UK
+I am currently a student of the University of Bristol, studying Computer Science Bachelor.
 
 - 🔭 I’m currently working on [a hand gesture controller](https://github.com/LuongVu307/hand-gesture-control)
 
