@@ -27,6 +27,7 @@ I am currently a student of the University of Bristol, studying Computer Science
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongVu307&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/gia-luong-vu-38b04728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gia-luong-vu-38b04728b" height="30" width="40" /></a>
