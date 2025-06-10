@@ -24,7 +24,6 @@ I am currently a student of the University of Bristol, studying Computer Science
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LuongVu307&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LuongVu307&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongVu307&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
