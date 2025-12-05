@@ -6,7 +6,7 @@ I am currently a student of the University of Bristol, studying Computer Science
 
 - 🌱 I’m currently learning about **Data Structure and Algorithm**
 
-- ✍️ I've just started a blog on [Medium](https://medium.com/@lgvu307), document my journey to learn AI, feel free to check it out.
+- ✍️ I've just started a blog on [Medium](https://medium.com/@lgvu307), documenting my journey to learn AI. Feel free to check it out.
 
 - 📖 My main interest lies in **AI, Computer Vision**
 
