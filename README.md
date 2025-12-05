@@ -4,11 +4,13 @@ I am currently a student of the University of Bristol, studying Computer Science
 
 - 🔭 I’m currently working on [a hand gesture controller](https://github.com/LuongVu307/hand-gesture-control)
 
-- 🌱 I’m currently learning **software development workflows & programming languages**
+- 🌱 I’m currently learning about **Data Structure and Algorithm**
 
-- 💬 Ask me about **Python, AI, Data Science and Machine Learning**
+- ✍️ I've just started a blog on Medium,  
 
-- 📫 How to reach me **lgvu307@gmail.com**
+- 📖 My main interest lies in **AI, Computer Vision**
+
+- 📫 Please reach me through **lgvu307@gmail.com**
 
 
 ## 💻 Tech Stack:
@@ -23,7 +25,6 @@ I am currently a student of the University of Bristol, studying Computer Science
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=LuongVu307&theme=dark&hide_border=false)     ![](https://github-readme-stats.vercel.app/api?username=LuongVu307&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongVu307&layout=donut&theme=dark&count_private=true)
 
 
 ## 🌐 Socials:
