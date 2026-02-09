@@ -8,7 +8,7 @@ I am currently a student of the University of Bristol, studying Computer Science
 
 - ✍️ I've just started a blog on [Medium](https://medium.com/@lgvu307), documenting my journey to learn AI. Feel free to check it out.
 
-- 📖 My main interest lies in **AI, Computer Vision**
+- 📖 My main interest lies in **AI, Computer Vision and Data Science**
 
 - 📫 Please reach me through **lgvu307@gmail.com**
 
