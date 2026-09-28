@@ -2,11 +2,9 @@
 
 I am currently a student of the University of Bristol, studying Computer Science Bachelor.
 
-- 🔭 I’m currently working on [a hand gesture controller](https://github.com/LuongVu307/hand-gesture-control)
+- 🔭 I’m currently working on [a AI Planner](https://github.com/LuongVu307/orbit-ai)
 
 - 🌱 I’m currently learning about **Data Structure and Algorithm**
-
-- ✍️ I've just started a blog on [Medium](https://medium.com/@lgvu307), documenting my journey to learn AI. Feel free to check it out.
 
 - 📖 My main interest lies in **AI, Computer Vision and Data Science**
 
