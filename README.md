@@ -2,7 +2,7 @@
 
 I am currently a student of the University of Bristol, studying Computer Science Bachelor.
 
-- 🔭 I’m currently working on [a AI Planner](https://github.com/LuongVu307/orbit-ai)
+- 🔭 I’m currently working on [an AI Planner](https://github.com/LuongVu307/orbit-ai)
 
 - 🌱 I’m currently learning about **Data Structure and Algorithm**
 
