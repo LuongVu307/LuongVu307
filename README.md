@@ -1,39 +1,58 @@
-<h1>Hi 👋, I'm Vu!</h1>
+# Hi, I'm Gia Luong Vu 👋
 
-I am currently a student of the University of Bristol, studying Computer Science Bachelor.
+I'm a **Computer Science student at the University of Bristol**
+interested in **software engineering, backend systems, and AI**.
 
-- 🔭 I’m currently working on [an AI Planner](https://github.com/LuongVu307/orbit-ai)
+-   🔭 Currently building
+    **[Orbit](https://github.com/LuongVu307/orbit-ai)** --- a personal
+    AI planning assistant
+-   ⚙️ Interested in **backend engineering, AI agents, and
+    infrastructure**
+-   🧠 Practising **algorithms, data structures, and competitive
+    programming**
+-   🎓 Teaching Assistant in Computer Science at the **University of
+    Bristol**
+-   💼 Previously worked on **AI automation at Nestflo** and
+    **software/ML systems at SYMPER**
 
-- 🌱 I’m currently learning about **Data Structure and Algorithm**
+## Tech
 
-- 📖 My main interest lies in **AI, Computer Vision and Data Science**
+**Languages:** Python · Go\
+**Backend:** FastAPI · Flask · PostgreSQL · SQLAlchemy\
+**AI/ML:** PyTorch · Machine Learning · LLMs · AI Agents\
+**Tools:** Git · Docker · Linux · pytest
 
-- 📫 Please reach me through **lgvu307@gmail.com**
+## Featured Projects
 
+### [Orbit --- AI Planning Assistant](https://github.com/LuongVu307/orbit-ai)
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-<br>
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+An AI-native personal planning assistant designed to turn
+natural-language requests into structured, actionable tasks.
 
+-   Built with **Python, FastAPI, PostgreSQL, SQLAlchemy, and Alembic**
+-   Uses an **Understand → Propose → Approve → Execute** agent workflow
+-   Integrates local LLM inference with structured intent extraction
+-   Includes automated testing with **pytest**
 
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=LuongVu307&theme=dark&hide_border=false)     ![](https://github-readme-stats.vercel.app/api?username=LuongVu307&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+### [Keyboard Efficiency](https://github.com/LuongVu307/keyboard-efficiency)
 
+Exploring and evolving efficient keyboard layouts using **genetic
+algorithms, optimization, and Python**.
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/gia-luong-vu-38b04728b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gia-luong-vu-38b04728b" height="30" width="40" /></a>
-<a href="https://kaggle.com/luongvu307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="luongvu307" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lgvu307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lgvu307" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/luong_vu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="luong_vu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/luongvu307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luongvu307" height="30" width="40" /></a>
-</p>
+### [Hand Gesture Control](https://github.com/LuongVu307/hand-gesture-control)
 
----
-[![](https://visitcount.itsvg.in/api?id=LuongVu307&icon=0&color=0)](https://visitcount.itsvg.in)
+A real-time **computer vision** system for controlling a computer using
+hand gestures.
+
+## Currently
+
+I'm continuing to develop my skills in **software engineering, backend
+systems, AI, and algorithms** while studying Computer Science at
+Bristol.
+
+I'm currently interested in **2027 Software Engineering and AI
+internship opportunities**.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/gia-luong-vu-38b04728b/)
